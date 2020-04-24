@@ -1,5 +1,4 @@
 '''
-Written by Sonali Andani, for questions contact "andani.son@gmail.com
 This file is used to choose model architecture and model parameters
 '''
 import torch
