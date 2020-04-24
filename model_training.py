@@ -1,5 +1,4 @@
 '''
-Written by Sonali Andani, for questions contact "andani.son@gmail.com
 The code is used for model training. The model configuration, parameters need to be set in "config.py" file
 
 '''
